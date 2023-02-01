@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alextwixmen
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning html, css, java-script
+- 🌱 I’m currently learning html, css, java-script, react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
